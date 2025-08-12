@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Ariston Flowers and Cafe",
+        "rating": 4.9,
+        "priceRange": "$10 - 20",
+        "transportation": "58 min",
+        "website": "https://aristonflowers.com/",
+        "imageNames": [
+            "aristondrink",
+            "aristonfloor",
+            "aristonfood",
+            "aristonseating",
+            "aristontables"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Blank Street",
+        "rating": 4.9,
+        "priceRange": "$1 - 10",
+        "transportation": "20 min",
+        "website": "https://www.blankstreet.com/",
+        "imageNames": [
+            "bsdrink",
+            "bslatte",
+            "bsmatcha",
+            "bsoutside",
+            "bssoho"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "La Colombe",
+        "rating": 4.4,
+        "priceRange": "$1 - 10",
+        "transportation": "14 min",
+        "website": "https://www.lacolombe.com/",
+        "imageNames": [
+            "colombedraft",
+            "colombeicedrink",
+            "colombeinside",
+            "colombematcha",
+            "colombestore"
+        ]
+        
+    },
+    {
+        "id": 4,
+        "name": "Remi Flowers and Cafe",
+        "rating": 4.2,
+        "priceRange": "$1 - 10",
+        "transportation": "34 min",
+        "website": "https://www.reminyc.com/",
+        "imageNames": [
+            "remiflowers",
+            "remilatteart",
+            "remimain",
+            "remioutside",
+            "remipastries"
+        ]
+        
+    },
+    {
+        "id": 5,
+        "name": "Variety Coffee",
+        "rating": 4.2,
+        "priceRange": "$1 - 10",
+        "transportation": "8 min",
+        "website": "https://varietycoffeeroasters.com/",
+        "imageNames": [
+            "varietycounter",
+            "varietydrink",
+            "varietylatte",
+            "varietymenu",
+            "varietyoutside"
+        ]
+    }
+]
