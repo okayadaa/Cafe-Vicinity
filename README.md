@@ -63,6 +63,9 @@ Wireframes:
 
 <img width="1424" height="602" alt="Screenshot 2025-08-06 at 11 52 13 PM" src="https://github.com/user-attachments/assets/9640391e-9ddf-4ab9-a500-34241c999f7a" />
 
+Video Walkthrough:
+
+https://github.com/user-attachments/assets/ecb96cdd-d9f7-4067-b4ed-2265bea4a2c5
 
 ￼
 
